@@ -1,14 +1,13 @@
-#Router Project
+<h1>Router Project</h1>
 In this project the aim was to apply analysis to a certain website and discover the most famous router brands in a website
 
-###Steps:
+<h3>Steps:</h3>
 1. First we choose the website and classify the pages we want to scrape
 2. Then we extract the data by applying Web scraping wsing Bs4 and request library
 3. After that we start applying diiferent analysis techniques using pandas puthon library
 4. lastly we showcase the data of the websites regarding the prices of routers and most common routers in dashboards form
 
-###Description:
-<br>
+<h3>Description:</h3>
 Here we gather the website pages to scrape
 <br>
 <img src="https://github.com/user-attachments/assets/f6048291-a969-4dd6-a9e6-f8d8e38d37b9" width="50%">
